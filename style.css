@@ -1,0 +1,12 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+    font-size: larger;
+}
+.suggestion-heading{
+    font-weight: 700;
+    font-style: italic;
+}
+#suggestion{
+    font-weight: 900;
+}
